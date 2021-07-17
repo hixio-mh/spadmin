@@ -10,7 +10,7 @@
     "restglue":"^1.0.17",
     "stateful-event": "^1.0.1",
     "browserify": "^13.0.1",
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "fakerest": "^1.1.4",
     "glob": "^7.0.5",
     "jsdom": "^9.4.1",
